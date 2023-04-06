@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T01:18:54Z",
+  "IdClaims": [
+    {
+      "Claim": "t:shiruken"
+    },
+    {
+      "Claim": "gh:shiruken"
+    },
+    {
+      "Claim": "spout:shiruken"
+    },
+    {
+      "Claim": "post:shiruken"
+    },
+    {
+      "Claim": "mdon:@shiruken@octodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "35eb9c30424a55bcdea09966",
+    "Timestamp": "2023-04-06T01:21:46Z",
+    "Signature": "6e57e2586850fc3ef007a595fc094fcd613421a98d0d063e87de9d72be41b55283d21902539bcdebfffa0d3dcbd82612eeb82d7560a4ee241f0689ba36bdfb357d4a9a9717d893c90ab25403f4ff372ef6d866f9f63c2f7d84ae4a613e8dc02b4112706ed4db7ef99382b9f18610d55c363a0771a3b3cfe4c746a649a1cfadb751e2dca5c9ed1d0ed92585321b4aae30ce20738c825e8d2042a0f98484c31e4778e39b1118302e1a19eb8da05570be2d3d637a6efe7f4463ab0f0d2f753afc5466ae7c31415c4150b7a6b11bdcd5beee0140c1e99099a55526004b4383ae284cabaf44843531be7ab22ed25787c5a930c293d08d649b9107fb13978619559249"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "4cf860f0fe27e8ce41215cf7e82dc6d4223cf5d3cba47d127cab4ebd04cf676d",
+  "ContentToHash": "v1|gh:shiruken,mdon:@shiruken@octodon.social,med:no-account,pat:no-account,post:shiruken,spout:shiruken,ss:no-account,t:shiruken|2023-04-06T01:18:54Z"
+}
